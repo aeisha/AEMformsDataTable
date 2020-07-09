@@ -1,0 +1,160 @@
+[
+  {
+    "institution": "CWB",
+    "region": "Ontario",
+    "branch": "Lethbridge",
+    "rgm": "Ashton",
+    "crm": "Cedric"
+  },
+
+  {
+    "institution": "CWB",
+    "region": "Ontario",
+    "branch": "Winnipeg",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+
+  {
+    "institution": "CRA",
+    "region": "Ontario",
+    "branch": "Leduc",
+    "rgm": "Ashton",
+    "crm": "Cedric"
+  },
+
+  {
+    "institution": "CRA",
+    "region": "Ontario",
+    "branch": "Victoria",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+
+  {
+    "institution": "CRA",
+    "region": "Ontario",
+    "branch": "Kelowna",
+    "rgm": "Ashton",
+    "crm": "Cedric"
+  },
+
+  {
+    "institution": "CWB",
+    "region": "Ontario",
+    "branch": "Nanaimo",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+
+  {
+    "institution": "CWB",
+    "region": "Ontario",
+    "branch": "Saskatoon",
+    "rgm": "Ashton",
+    "crm": "Cedric"
+  },
+
+  {
+    "institution": "CIHR",
+    "region": "Ontario",
+    "branch": "Yorkton",
+    "rgm": "Edith",
+    "crm": "Andrew"
+  },
+
+  {
+    "institution": "Tiger Nixon",
+    "region": "Alberta",
+    "branch": "Coquitlam",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+
+  {
+    "institution": "CIHR",
+    "region": "British Columbia",
+    "branch": "Abbotsford",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+  {
+    "institution": "CWB",
+    "region": "Ontario",
+    "branch": "Coquitlam",
+    "rgm": "Ashton",
+    "crm": "Cedric"
+  },
+
+  {
+    "institution": "CWB",
+    "region": "Ontario",
+    "branch": "Abbotsford",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+
+  {
+    "institution": "CRA",
+    "region": "Ontario",
+    "branch": "Mississauga",
+    "rgm": "Ashton",
+    "crm": "Cedric"
+  },
+
+  {
+    "institution": "CRA",
+    "region": "Ontario",
+    "branch": "Mississauga",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+
+  {
+    "institution": "CRA",
+    "region": "Ontario",
+    "branch": "Vancouver Corporate Lending",
+    "rgm": "Ashton",
+    "crm": "Cedric"
+  },
+
+  {
+    "institution": "CWB",
+    "region": "British Columbia",
+    "branch": "Vancouver Corporate Lending",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+
+  {
+    "institution": "CWB",
+    "region": "Ontario",
+    "branch": "Surrey Strawberry Hill",
+    "rgm": "Ashton",
+    "crm": "Cedric"
+  },
+
+  {
+    "institution": "CIHR",
+    "region": "Ontario",
+    "branch": "Richmond",
+    "rgm": "Edith",
+    "crm": "Andrew"
+  },
+
+  {
+    "institution": "Tiger Nixon",
+    "region": "Alberta",
+    "branch": "Richmond",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  },
+
+  {
+    "institution": "CIHR",
+    "region": "British Columbia",
+    "branch": "Richmond",
+    "rgm": "Mayank",
+    "crm": "Teri"
+  }
+]
